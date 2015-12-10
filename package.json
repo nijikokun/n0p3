@@ -1,6 +1,6 @@
 {
   "name": "n0p3",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "the ultimate noop module for other node modules",
   "main": "index.js",
   "scripts": {
