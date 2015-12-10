@@ -1,0 +1,22 @@
+{
+  "name": "n0p3",
+  "version": "1.0.0",
+  "description": "the ultimate noop module for other node modules",
+  "main": "index.js",
+  "scripts": {
+    "test": "node test.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/nijikokun/n0p3.git"
+  },
+  "keywords": [
+    "noop"
+  ],
+  "author": "Nijiko Yonskai <nijikokun@gmail.com>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/nijikokun/n0p3/issues"
+  },
+  "homepage": "https://github.com/nijikokun/n0p3#readme"
+}
