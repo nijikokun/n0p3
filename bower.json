@@ -1,0 +1,26 @@
+{
+  "name": "n0p3",
+  "description": "the ultimate noop module for other node modules",
+  "main": "index.js",
+  "authors": [
+    "Nijiko Yonskai <nijikokun@gmail.com>"
+  ],
+  "license": "MIT",
+  "keywords": [
+    "noop",
+    "node",
+    "function",
+    "fn",
+    "no-op"
+  ],
+  "homepage": "https://github.com/Nijikokun/n0p3",
+  "moduleType": [],
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests",
+    "test.js"
+  ]
+}
